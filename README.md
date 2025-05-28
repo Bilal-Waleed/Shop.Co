@@ -74,7 +74,7 @@ Follow these steps to get the project up and running on your local machine:
 
 1. **Clone the Repository**  
    ```bash
-   git clone 
+   git clone https://github.com/Bilal-Waleed/Shop.Co.git
    ```
 
 2. **Navigate to the Project Directory**  
